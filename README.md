@@ -11,3 +11,16 @@ Zadanie 1 Clustering Exercises
 ❌ 5.0 wymaganie 5
 
 Kod: ./zad_01
+
+----------------------------------------------
+
+Zadanie 2 Linear
+
+✅ 1
+
+❌ 2
+
+✅ 3
+
+
+Kod: ./zad_02
