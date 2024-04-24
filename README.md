@@ -33,9 +33,9 @@ Zadanie 3 Trees
 
 ✅ 2
 
-❌ 3
+✅ 3
 
-❌ 5
+❌ 4
 
 
 Kod: ./zad_03
